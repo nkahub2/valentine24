@@ -1,0 +1,35 @@
+.card-header {
+    background-color: #FF9BD2;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.card-body {
+    /* background-color: #F8F4EC; */
+    /* background-color: #FAEF5D; */
+    background-color:#FF004D ;
+    color: whitesmoke;
+    font-family: cursive;
+    /* font-style: italic; */
+    font-weight: lighter;
+    font-size: x-large;
+}
+.card-footer {
+    background-color: #FF9BD2 ;
+    font-family: cursive;
+}
+body {
+    /* background-color: #D61C4E; */
+    /* background-color: #FF004D; */
+    background-color:#3D0C11 ;
+}
+.card {
+    border: 5px solid #FF9BD2 ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1px;
+}
+
+
+

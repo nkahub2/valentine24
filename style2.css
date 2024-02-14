@@ -1,0 +1,19 @@
+body {
+    background-color: #116A7B;
+}
+.card {
+    margin: 80px;
+    background-color: #2CD3E1
+}
+.card-title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+.card-text {
+    font-family: cursive;
+    padding: 5px;
+}
+
+
